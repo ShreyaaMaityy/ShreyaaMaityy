@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I’m Shreya 👋
+I’m a Computer Science student passionate about building scalable web applications and solving real-world problems using technology. I work mainly with JavaScript, React, Node.js, MongoDB, and enjoy exploring Data Structures, Backend Systems, and AI-powered applications.
+Currently, I’m focused on improving my problem-solving skills and building meaningful projects while continuously learning new tools and technologies.
 
 
 # 💻 Tech Stack:
